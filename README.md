@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Krishna Kant Sharma  👋</h1>
+<h1 align="center">Hi there, I'm Kritarth Sharma  👋</h1>
 <h2 align="left">:-Technologies && Skills <br></h2>
 <h4>
 1. Python<br>
