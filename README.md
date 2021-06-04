@@ -59,7 +59,7 @@
 <img align="left" alt="python" title="Python" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/download.jpg" />
 <img align="left" alt="java" title="Java" width="36px" src="https://github.com/kritarth2121/kritarth2121/blob/main/java.png" />
 <img align="left" alt="Android" title="Android" width="36px" height="30px" src="https://raw.githubusercontent.com/kritarth2121/kritarth2121/master/iconfinder_android_317758.png" />
-<img align="left" alt="html5" title="HTML5" width="36px"  height="30px"src="https://github.com/kritarth2121/kritarth21217/blob/main/html.png" />
+<img align="left" alt="html5" title="HTML5" width="36px"  height="30px"src="https://github.com/kritarth2121/kritarth2121/blob/main/html.png" />
 <img align="left" alt="IOT" title="IOT" width="36px" src="https://github.com/kritarth2121/kritarth2121/blob/main/icons8-device-manager-50.png" />
 <img align="left" alt="firebase" title="Firebase" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/icons8-google-firebase-console-48.png" />
 <img align="left" alt="security" title="Security" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/icons8-security-time-50.png" />
