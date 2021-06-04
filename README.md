@@ -54,20 +54,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="GitHub" title="Github" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/icons8-github-48.png" />
+<img align="left" alt="GitHub" title="Github" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/icons8-github-48.png" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="python" title="Python" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/download.jpg" />
-<img align="left" alt="java" title="Java" width="36px" src="https://github.com/kritarth2121/kritarth2121/blob/master/java.png" />
+<img align="left" alt="python" title="Python" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/download.jpg" />
+<img align="left" alt="java" title="Java" width="36px" src="https://github.com/kritarth2121/kritarth2121/master/java.png" />
 <img align="left" alt="Android" title="Android" width="36px" height="30px" src="https://raw.githubusercontent.com/kritarth2121/kritarth2121/master/iconfinder_android_317758.png" />
-<img align="left" alt="html5" title="HTML5" width="36px"  height="30px"src="https://github.com/kritarth2121/kritarth21217/blob/master/html.png" />
-<img align="left" alt="IOT" title="IOT" width="36px" src="https://github.com/kritarth2121/kritarth2121/blob/master/icons8-device-manager-50.png" />
-<img align="left" alt="firebase" title="Firebase" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/icons8-google-firebase-console-48.png" />
-<img align="left" alt="security" title="Security" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/icons8-security-time-50.png" />
-<img align="left" alt="SQL" title="SQL" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/icons8-sql-64.png" />
-<img align="left" alt="css3" title="CSS3" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/css.png" />
-<img align="left" alt="bootstrap" title="Bootstrap" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/bootstrap.png" />
-<img align="left" alt="Django" title="Django" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/django.png" />
-<img align="left" alt="mongo" title="Mongo-db" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/master/mongo.png" />
+<img align="left" alt="html5" title="HTML5" width="36px"  height="30px"src="https://github.com/kritarth2121/kritarth21217/master/html.png" />
+<img align="left" alt="IOT" title="IOT" width="36px" src="https://github.com/kritarth2121/kritarth2121/master/icons8-device-manager-50.png" />
+<img align="left" alt="firebase" title="Firebase" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/icons8-google-firebase-console-48.png" />
+<img align="left" alt="security" title="Security" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/icons8-security-time-50.png" />
+<img align="left" alt="SQL" title="SQL" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/icons8-sql-64.png" />
+<img align="left" alt="css3" title="CSS3" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/css.png" />
+<img align="left" alt="bootstrap" title="Bootstrap" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/bootstrap.png" />
+<img align="left" alt="Django" title="Django" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/django.png" />
+<img align="left" alt="mongo" title="Mongo-db" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/master/mongo.png" />
 
 
 
