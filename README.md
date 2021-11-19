@@ -43,10 +43,7 @@ Chatting App</a>   Just try once</h2>
 <br />
 
 ### Connect with me: 
-
-<a href="https://www.linkedin.com/in/kritarth-sharma-15721216b/" target="_blank">
-  <img align="left" alt="Kritarth Sharma | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
-</a>                                                                                                                                     
+                                                                                                                                   
 <a href="https://www.hackerrank.com/kritarth21?hr_r=1/" target="_blank">
   <img align="left" alt="kritarth21" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
 </a>
