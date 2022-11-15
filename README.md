@@ -1,16 +1,9 @@
 <h1 align="center">Hi there, I'm Kritarth Sharma  👋</h1>
 <h2 align="left">:-Technologies && Skills <br></h2>
 <h4>
-1. Python<br>
-2. Java<br>
-3. Web FrontEnd Technologies (HTML, CSS, JavaScript, Bootstrap, ReactJs) <br>
-4.ExpressJs<br>
-5.Django<br>
-6 .SQL and Mongo-db<br> 
-7.Data structures and algorithms<br>
-8.Firebase<br>
-9.Internet of things<br>
-10.Git and Github
+* Frontend Technologies (HTML, CSS, JavaScript, Tailwind, React Js, Angular Js) <br>
+* Backend Technology (ExpressJs ,AdonishJs , NodeJs)<br>
+* Data structures and algorithms<br>
 </h4>
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
