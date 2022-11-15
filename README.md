@@ -18,9 +18,6 @@
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
 
-<h2>🌱 I’m currently building this chatbot application ,that can imitate a girl behaviour <a href="https://chatrandom.netlify.app/" target="_blank">
-Chatting App</a>   Just try once</h2>
-
 - 👯 I’m looking to collaborate with **other content creators**
 
 - 🤔 I’m looking for help with **learning anything new!**
