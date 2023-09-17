@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Code only**
 
-- 📫 How to reach me **kritarth2@outlook.com**
-
 - ⚡ Fun fact  **Programmers start count from 0🤣**
 
 <br>
