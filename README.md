@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Kritarth Sharma  👋</h1>
-<h2 align="left">:-Technologies && Skills <br></h2>
+<h1 align="center">Hi there, I'm Kritarth Sharma  👋 </h1>
+<h2 align="left">:-Technologies && Skills </h2>
 <h4>
 * Frontend Technologies (HTML, CSS, JavaScript, Tailwind, React Js, Angular Js) <br>
 * Backend Technology (ExpressJs ,AdonishJs , NodeJs)<br>
@@ -7,13 +7,8 @@
 </h4>
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
-
+- I'm a software developer based in India, specialized in building **exceptional websites**.
 - 🔭 I’m currently working on **my Skills**
-
-- 💬 Ask me about **Code only**
-
-- ⚡ Fun fact  **Programmers start count from 0🤣**
-
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritarth2121&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="kritarth2121" />
 <br />
