@@ -7,8 +7,10 @@
 </h4>
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
+
 - I'm a software developer based in India, specialized in building **exceptional websites**.
 - 🔭 I’m currently working on **my Skills**
+  
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritarth2121&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="kritarth2121" />
 <br />
