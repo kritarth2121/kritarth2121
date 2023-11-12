@@ -19,18 +19,14 @@
 <br />
 <img align="leftr" src="https://github-readme-stats.vercel.app/api?username=kritarth2121&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kritarth2121 Github Stats">
 <br />
-<br />
-<br />
 
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kritarth2121" alt="kritarth-sharma" /> 
   </p>   
-<br />
-<br />
 
 ### Connect with me: 
                                                                                                                                    
-<p align="center">
+<p align="left">
    <a target="_blank"href="http://www.linkedin.com/in/kritarthsharma1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/kritarth21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>                                                                                                                                                                           
