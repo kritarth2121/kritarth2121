@@ -3,7 +3,7 @@
 <h4>
 * Frontend Technologies (HTML, CSS, JavaScript, Tailwind, React Js, Angular Js) <br>
 * Backend Technology (ExpressJs ,AdonishJs , NodeJs) <br>
-* Data structures and algorithms  <br><br>
+* Data structures and algorithms  
 </h4>
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
