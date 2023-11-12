@@ -22,24 +22,19 @@
 <br />
 <br />
 
+### Github Statistics 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kritarth2121&layout=compact&hide=html&theme=jolly" alt="Udit-takkar" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br />
+<br />
+
 ### Connect with me: 
                                                                                                                                    
-<a href="https://www.hackerrank.com/kritarth21?hr_r=1/" target="_blank">
-  <img align="left" alt="kritarth21" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
-</a>
-                                                                                                                                                                           
+<p align="center">
+   <a target="_blank"href="http://www.linkedin.com/in/kritarthsharma1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/kritarth21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>                                                                                                                                                                           
 <br>
-
-### Languages and Tools:
-
-<img align="left" alt="GitHub" title="Github" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/icons8-github-48.png" />
-<img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="python" title="Python" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/download.jpg" />
-<img align="left" alt="java" title="Java" width="36px" src="https://github.com/kritarth2121/kritarth2121/blob/main/java.png" />
-<img align="left" alt="html5" title="HTML5" width="36px"  height="30px"src="https://github.com/kritarth2121/kritarth2121/blob/main/html.png" />
-<img align="left" alt="security" title="Security" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/icons8-security-time-50.png" />
-<img align="left" alt="SQL" title="SQL" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/icons8-sql-64.png" />
-<img align="left" alt="css3" title="CSS3" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/css.png" />
-<img align="left" alt="bootstrap" title="Bootstrap" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/bootstrap.png" />
-<img align="left" alt="mongo" title="Mongo-db" width="36px" height="30px" src="https://github.com/kritarth2121/kritarth2121/blob/main/mongo.png" />
 
