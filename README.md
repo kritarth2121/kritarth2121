@@ -22,11 +22,9 @@
 <br />
 <br />
 
-### Github Statistics 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kritarth2121&layout=compact&hide=html&theme=jolly" alt="Udit-takkar" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kritarth2121" alt="kritarth-sharma" /> 
+  </p>   
 <br />
 <br />
 
